@@ -23,4 +23,6 @@ Run the uninstall command and delete the zip file.
 | Command | Descriptions |
 | --- | --- |
 | ```/trigger keepInventory``` | Toggles keepInventory |
+| ```/function individual_keepinventory:settings/can_trigger``` | Toggles if all players drop xp |
+| ```/function individual_keepinventory:settings/can_trigger``` | Toggles if players can toggle keepInventory |
 | ```/function individual_keepinventory:uninstall``` | Uninstalls datapack |
