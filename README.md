@@ -16,7 +16,7 @@ Run the uninstall command and delete the zip file.
 
 #### Notes:
 - #### ```/gamerule doImmediateRespawn``` must be ```false```
-- #### ```/gamerule keepInventory``` must be ```true```
+- #### ```/gamerule keepInventory``` must be ```true``` (Automatically set when the datapack is loaded)
 - Item spread is square instead of circular
 
 #### Commands:
