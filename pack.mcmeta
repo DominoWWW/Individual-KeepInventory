@@ -2,7 +2,7 @@
 	"author": "DominoWWW",
 	"version": "0.0.1",
 	"pack": {
-		"pack_format": 10,
+		"pack_format": 48,
 		"description": ["",{"text":"Individual KeepInventory allows players to individually Toggle keepInventory by using \n","color":"yellow"},{"text":"/trigger keepInventory","bold":true,"color":"gold"},{"text":"\nby DominoWWW","color":"gold","italic":true}]
 	}
 }
